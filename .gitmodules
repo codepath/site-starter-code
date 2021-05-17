@@ -1,0 +1,3 @@
+[submodule "week1/site_reportcard_starter"]
+	path = week1/site_reportcard_starter
+	url = https://github.com/SamanthaCP/site_reportcard_starter.git
