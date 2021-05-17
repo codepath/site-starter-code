@@ -1,3 +1,12 @@
 [submodule "week1/site_reportcard_starter"]
 	path = week1/site_reportcard_starter
 	url = https://github.com/SamanthaCP/site_reportcard_starter.git
+[submodule "week2/gift_giver_starter"]
+	path = week2/gift_giver_starter
+	url = https://github.com/SamanthaCP/gift_giver_starter.git
+[submodule "week2/site_twitter_starter"]
+	path = week2/site_twitter_starter
+	url = https://github.com/SamanthaCP/site_twitter_starter
+[submodule "week2/site_banking_starter"]
+	path = week2/site_banking_starter
+	url = https://github.com/SamanthaCP/site_banking_starter
