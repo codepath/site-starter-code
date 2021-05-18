@@ -10,3 +10,9 @@
 [submodule "week2/site_banking_starter"]
 	path = week2/site_banking_starter
 	url = https://github.com/SamanthaCP/site_banking_starter
+[submodule "week2/--banking_starter"]
+	path = week2/--banking_starter
+	url = https://github.com/SamanthaCP/site_banking_starter.git
+[submodule "week2/banking_starter"]
+	path = week2/banking_starter
+	url = https://github.com/SamanthaCP/site_banking_starter.git
