@@ -16,3 +16,6 @@
 [submodule "week2/banking_starter"]
 	path = week2/banking_starter
 	url = https://github.com/SamanthaCP/site_banking_starter.git
+[submodule "week4/assignment_jobly/jobly-starter"]
+	path = week4/assignment_jobly/jobly-starter
+	url = https://github.com/codepath/jobly-starter
