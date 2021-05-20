@@ -4,9 +4,6 @@
 [submodule "week3/lab2_vaccine_hub"]
 	path = week3/lab2_vaccine_hub
 	url = https://github.com/codepath/vaccine-hub-starter.git
-[submodule "lab2_report_card"]
-	path = lab2_report_card
-	url = https://github.com/SamanthaCP/site_reportcard_starter.git
 [submodule "week2/lab2_twitter"]
 	path = week2/lab2_twitter
 	url = https://github.com/SamanthaCP/site_twitter_starter.git
@@ -16,3 +13,6 @@
 [submodule "week2/lab3_banking_app"]
 	path = week2/lab3_banking_app
 	url = https://github.com/SamanthaCP/site_banking_starter.git
+[submodule "week1/lab2_reportcard"]
+	path = week1/lab2_reportcard
+	url = https://github.com/SamanthaCP/site_reportcard_starter.git
