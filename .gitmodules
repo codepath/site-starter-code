@@ -16,3 +16,6 @@
 [submodule "week1/lab2_reportcard"]
 	path = week1/lab2_reportcard
 	url = https://github.com/SamanthaCP/site_reportcard_starter.git
+[submodule "week3/lab3_sql_student_store"]
+	path = week3/lab3_sql_student_store
+	url = https://github.com/codepath/student_store_pt2_starter.git
