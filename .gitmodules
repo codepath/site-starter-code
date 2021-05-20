@@ -19,3 +19,18 @@
 [submodule "week4/assignment_jobly/jobly-starter"]
 	path = week4/assignment_jobly/jobly-starter
 	url = https://github.com/codepath/jobly-starter
+[submodule "week3/lab2_vaccine_hub"]
+	path = week3/lab2_vaccine_hub
+	url = https://github.com/codepath/vaccine-hub-starter
+[submodule "lab2_report_card"]
+	path = lab2_report_card
+	url = https://github.com/SamanthaCP/site_banking_starter
+[submodule "week2/lab2_twitter"]
+	path = week2/lab2_twitter
+	url = https://github.com/SamanthaCP/site_twitter_starter
+[submodule "week2/lab1_gift_giver"]
+	path = week2/lab1_gift_giver
+	url = https://github.com/SamanthaCP/gift_giver_starter
+[submodule "week2/lab3_banking_app"]
+	path = week2/lab3_banking_app
+	url = https://github.com/SamanthaCP/site_banking_starter
