@@ -19,3 +19,12 @@
 [submodule "week3/lab3_sql_student_store"]
 	path = week3/lab3_sql_student_store
 	url = https://github.com/codepath/student_store_pt2_starter.git
+[submodule "week4/lab1_airbnb-pt1"]
+	path = week4/lab1_airbnb-pt1
+	url = https://github.com/codepath/airbnb-pt1-starter.git
+[submodule "week4/lab2_airbnb-pt2"]
+	path = week4/lab2_airbnb-pt2
+	url = https://github.com/codepath/airbnb-pt2-starter.git
+[submodule "week4/lab2_airbnb-pt3"]
+	path = week4/lab2_airbnb-pt3
+	url = https://github.com/codepath/airbnb-pt3-starter.git
