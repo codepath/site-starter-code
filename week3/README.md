@@ -10,7 +10,7 @@ This week we will focus on how to build a database using Postgres and connect it
 
 * **Lab #1:** SQLChallenges.io
 * **Lab #2:** Vaccine Hub
-* **Lab #3:** Student Store Part 2
+* **Lab #3:** SQL Student Store
 
 ## Reminders
 
